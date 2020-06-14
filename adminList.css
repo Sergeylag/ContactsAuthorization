@@ -1,0 +1,78 @@
+body {
+	background: url(https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/10/11/09/snowboard-holding.jpg) no-repeat fixed;
+	background-size: 100%;
+
+}
+.list {
+	margin: 20px auto;
+	padding: 30px 0;
+	width: 700px;
+	background: #f3eee8;
+	text-align: center;
+	border-radius: 5px;
+	opacity: 0.9;
+}
+.butAddContact {
+margin: 20px;
+width: 200px;
+height: 50px;
+font-size: 20px;
+border-radius: 5px;
+background-color: #0c0;
+}
+.contact {
+	height: 80px;
+	width: 600px;
+	margin: 5px auto;
+	padding: 10px;
+	text-align: left;
+	font-size: 25px;
+	background: #bbb;
+	border-radius: 10px;
+}
+.contact button {
+	width: 120px;
+	height: 70px;
+	font-size: 20px;
+	margin: 5px 10px;
+	border-radius: 5px;
+}
+.butDel {
+	background-color: #d44942;
+}
+.butChange {
+	background-color: #ffa500;
+}
+.info {
+	width: 300px;
+	height: 80px;
+	float: left;
+}
+.change {
+	width: 300px;
+	margin-left: auto;
+	text-align: right;
+}
+.change input{
+	width: 140px;
+}
+.change button {
+	height: 25px;
+	font-size: 14px;
+}
+.newContact {
+	width: 650px;
+	margin: 10px auto;
+	border: 1px solid black;
+	background-color: #fff;
+	border-radius: 5px;
+}
+.newContact input {
+	width: 140px;
+	margin: 5px;
+}
+.search {
+  width: 70%;
+  padding: 10px;
+  font-size: 16px;
+}

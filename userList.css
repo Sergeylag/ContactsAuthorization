@@ -1,0 +1,52 @@
+body {
+  background: url(https://mafii.net/uploads/avatars/full/05Aug2017_22-11-44kirich93rus.jpg) no-repeat fixed;
+  background-size: 100%;
+}
+.contacts {
+  width: 500px;
+  margin: 0 auto;
+  background: #FFF;
+  padding: 15px;
+  border-radius: 15px;
+  opacity: 0.91;
+}
+
+.search-field {
+  width: 95%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.contacts-list {
+  padding: 0;
+  width: 100%;
+}
+
+.contact {
+  display: flex;
+  align-items: center;
+  font-family: sans-serif;
+  width: 100%;
+  padding: 5px;
+  border-bottom: 1px dotted grey;
+}
+
+.contact-image {
+    border-radius: 50%;
+    margin: 5px;
+}
+
+.contact-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.contact-number {
+  font-size: 18px;
+  color: grey;
+}
+.contact-position {
+  width: 130px;
+  padding-right: 15px;
+  font-size: 20px;
+}
